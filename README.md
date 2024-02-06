@@ -4,3 +4,5 @@
 git add .  
 git commmit -m "kommentaar muudatuse kohta"  
 git push
+
+Siia võiks konspekti teha
