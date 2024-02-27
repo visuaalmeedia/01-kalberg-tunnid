@@ -12,3 +12,14 @@ main {
 .card-row {
     display: flex;
 }
+
+.hero-container {
+    display: flex;
+    justify-content: center;
+    background-color: chartreuse;
+}
+
+.hero-content {
+    /* margin: 0 auto; */
+    width: 75ch;
+}
